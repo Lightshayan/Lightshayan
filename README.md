@@ -17,4 +17,8 @@ AMC: Darkshayan
 Email: Shayan.y.malik@gmail.com
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" Title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/tree/master/icons/html5" Title="HTML3" alt="HTML3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/css3" Title="CSS" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" Title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
+  
 </div>
