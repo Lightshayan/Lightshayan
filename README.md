@@ -20,5 +20,9 @@ Email: Shayan.y.malik@gmail.com
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" Title="HTML3" alt="HTML3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" Title="CSS" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" Title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lightshayan&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  
   
 </div>
