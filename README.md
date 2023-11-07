@@ -8,8 +8,7 @@ Codershayan.is-a.dev (Coming Soon)
 
 Accounts:
 https://replit.com/@CoderShayan
-https://github.com/Lightshayan
-AMC: https://amcforum.wiki/u/darkshayan
+https://amcforum.wiki/u/darkshayan
 
 Contact me on
 Discord: Darkshayan
