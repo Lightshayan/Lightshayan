@@ -1,14 +1,13 @@
-Hi! 👋 I’m Shayan, a teenage student who loves coding. I code in Python, HTML, CSS, and Java. I love to build legos, especially the 18+ sets. 
-
+Hi! 👋 I’m Shayan, a teenage student who loves coding. I code in Python, HTML, CSS, and Java. I love to build robots!
 ## Projects
-Smart Mirror
-Libit.xyz
-Self-driving rc car (coming soon!)
+Smart Mirror <br>
+Libit.xyz <br>
+Self-driving rc car (WIP) <br>
 Code the Stars
 <br>
 
 ## Accounts
-https://replit.com/@CoderShayan<br>(Note: This account is not in use due to the new Replit changes. My projects will be here on Github).
+https://replit.com/@CoderShayan<br>(Note: This account is not in use due to the new Replit changes. My projects will be here on Github).<br>
 https://amcforum.wiki/u/darkshayan<br>
 ## Contact
 
