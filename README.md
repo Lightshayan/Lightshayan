@@ -4,7 +4,6 @@ Smart Mirror <br>
 Libit.xyz <br>
 Self-driving rc car (WIP) <br>
 Code the Stars<br>
-Calculator App
 <br>
 
 ## Accounts
