@@ -10,7 +10,7 @@ Code the Stars<br>
 https://replit.com/@CoderShayan<br>(Note: This account is not in use due to the new Replit changes. My projects will be here on Github).<br>
 https://amcforum.wiki/u/darkshayan<br>
 ## Contact
-Email (preferred): Me@shayanmalik.xyz<br>
+Email: REDACTED<br>
 Discord: Darkshayan<br>
 AMC: Darkshayan<br>
 ## Languages
