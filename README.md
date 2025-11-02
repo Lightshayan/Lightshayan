@@ -1,16 +1,15 @@
-Hi! 👋 I’m Shayan, a high schooler who, among other hobbies, loves coding. I code in Python, HTML, CSS, JS, and dabble in C++ and Ruby on Rails. 
+Hi! 👋 I’m Shayan. I code in Python, HTML, CSS, JS, and dabble in C++ and Ruby on Rails. 
 ## Projects
-Smart Mirror <br>
-Libit.xyz <br>
+Nexus <br>
 Self-driving rc car (WIP) <br>
-Code the Stars<br>
+Code the Stars (DEC)<br>
 <br>
 
 ## Accounts
 https://replit.com/@CoderShayan<br>(Note: This account is not in use due to the new Replit changes. My projects will be here on Github).<br>
 https://amcforum.wiki/u/darkshayan<br>
 ## Contact
-Email: REDACTED<br>
+
 Discord: Darkshayan<br>
 AMC: Darkshayan<br>
 ## Languages
